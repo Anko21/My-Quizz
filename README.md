@@ -22,5 +22,5 @@ Architecture component for managing and persisting UI-related data.
 ### Navigation Component: 
 Facilitates seamless navigation between different app screens.
 
-##Usage:
-Clone this repository and run the application on an Android emulator or device with Android API level 21 (Lollipop) or higher. MyQuizz serves as an educational example for implementing basic quiz functionality using Jetpack Compose, ideal for learning Compose and ViewModel integration in Android development.
+## Usage:
+Clone this repository and run the application on an Android emulator or device with Android API level 21 (Lollipop) or higher. 
